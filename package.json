@@ -21,5 +21,14 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "main": "webpack.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ambient567/Leaderboard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ambient567/Leaderboard/issues"
+  },
+  "homepage": "https://github.com/Ambient567/Leaderboard#readme"
 }
