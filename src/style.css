@@ -10,13 +10,8 @@ body {
   border-radius: 5px;
   width: 90%;
   margin: 20px auto 10px auto;
-  background: rgb(43, 46, 54);
-  background: 
-    linear-gradient(90deg,
-    rgba(43, 46, 54, 1) 0%,
-    rgba(0, 107, 255, 1) 100%,
-    rgba(10, 177, 241, 1) 100%
-  );
+  background: url('bkg.jpeg');
+
 }
 
 main {
@@ -25,13 +20,7 @@ main {
   height: 100vh;
   box-shadow: 2px 2px 2px 2px #000;
   border-radius: 5px;
-  background: rgb(43, 46, 54);
-  background: 
-    linear-gradient(90deg,
-    rgba(43, 46, 54, 1) 0%,
-    rgba(0, 107, 255, 1) 100%,
-    rgba(10, 177, 241, 1) 100%
-  );
+  background: url('bkg.jpeg');
 }
 
 .title {
